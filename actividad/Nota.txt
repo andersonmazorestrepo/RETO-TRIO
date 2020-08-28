@@ -1,0 +1,5 @@
+Andres = 4.4
+,Santiago = 4.25
+,María = 5
+,Sebastian = 3.5
+,Valentina = 3
